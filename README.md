@@ -4,4 +4,4 @@ This **Exchange Rate** [Telegram bot](https://core.telegram.org/bots) was create
 
 The main library used for this bot is ["python-telegram-bot"](https://github.com/python-telegram-bot/python-telegram-bot) , which gives smart and straightforward access to [Telegram API](https://core.telegram.org/bots/api/).
 
-The bot is currently deployed on Heroku and is available through this link <t.me/I40_Bot> .
+The bot is currently deployed on Heroku and is available through this link (https://t.me/I40_Bot) .
